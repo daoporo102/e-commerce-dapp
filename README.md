@@ -1,4 +1,4 @@
-# Pete's Pet Shop DApp
+# Pet Shop Adoption DApp
 
 A decentralized pet adoption platform built with Ethereum smart contracts, Truffle, and a Bootstrap frontend.
 
